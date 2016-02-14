@@ -8,7 +8,11 @@
     "gulp-marked": "^1.0.0",
     "marked": "^0.3.5"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "gulp-footer": "^1.0.5",
+    "gulp-header": "^1.7.1",
+    "gulp-sass": "^2.2.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
